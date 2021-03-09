@@ -1,16 +1,16 @@
-### Hi there 👋
+## HI, I'm Ilya :cartwheeling:
 
-<!--
-**ibchk/ibchk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### I'm a second year student at Tallinn University of Technology (TalTech), of computer science :classical_building:. I am very interested in discovering new sides of tech community and technologies :desktop_computer:. My knowledge: Java :sauropod:, Python :snake:, PHP :elephant:, JavaScrypt :hatching_chick:, HTML :frog:, CSS :tw-1f368:, Spring :leaves:, Angular :octopus:, Socket.IO :tulip:, Node :sunflower:, LibGDX :joystick:. 
+------------
 
-Here are some ideas to get you started:
+### Facts about me:
+- Doglover :feet:
+- Globetrotter :earth_africa:	
+- Open-minded :mag_right:
+- Booklover :books:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me about the web :globe_with_meridians::
+ - [LinkedIn](https://www.linkedin.com/in/ilya-boichuk-b3184817b)
+ - [Instagram](https://www.instagram.com/l.bchk/)
+ - [Facebook](https://www.facebook.com/ilja.boitsuk/)
+ - email: i.boitsuk@gmail.com
