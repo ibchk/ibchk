@@ -1,6 +1,6 @@
 ## HI, I'm Ilya :cartwheeling:
 
-##### I'm a second year student at Tallinn University of Technology (TalTech), of computer science :classical_building:. I am very interested in discovering new sides of tech community and technologies :desktop_computer:. My knowledge: Java :sauropod:, Python :snake:, PHP :elephant:, JavaScrypt :hatching_chick:, HTML :frog:, CSS :alien:, Spring :leaves:, Angular :octopus:, Socket.IO :tulip:, Node :sunflower:, LibGDX :joystick:. 
+##### I'm a second year student at Tallinn University of Technology (TalTech), computer science :classical_building:. I am very interested in discovering new sides of tech community and technologies :desktop_computer:. My knowledge: Java :sauropod:, Python :snake:, PHP :elephant:, JavaScrypt :hatching_chick:, HTML :frog:, CSS :alien:, Spring :leaves:, Angular :octopus:, Socket.IO :tulip:, Node :sunflower:, LibGDX :joystick:. 
 ------------
 
 ### Facts about me:
