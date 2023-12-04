@@ -1,8 +1,5 @@
 ## HI, I'm Ilya :cartwheeling:
 
-##### I'm a second year student at Tallinn University of Technology (TalTech), computer science :classical_building:. I am very interested in discovering new sides of tech community and technologies :desktop_computer:. My knowledge: Django :snake:, Laravel :elephant:, Spring :leaves:, Angular :octopus:, LibGDX :joystick:. 
-------------
-
 ### Facts about me:
 - Doglover :feet:
 - Globetrotter :earth_africa:	
